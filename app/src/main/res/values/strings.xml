@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Beers</string>
+    <string name="api_url">http://www.brewerydb.com/</string>
+    <string name="api_key">2f2037cd30051cf4fab93a0245f82f1f</string>
+    <string name="format">json</string>
+    <string name="avid">1</string>
+</resources>
